@@ -42,4 +42,41 @@ Projekt obejmował:
 
 ## 📁 Struktura projektu
 
+## 📝 Proces analizy
+
+### 1. Przygotowanie danych
+Zidentyfikowano i naprawiono:
+- duplikaty,
+- braki danych,
+- niespójne formaty,
+- wartości odstające,
+- błędne klucze obce.
+
+### 2. Eksploracja danych
+Analiza obejmowała:
+- strukturę danych,
+- sprzedaż,
+- klientów,
+- produkty,
+- sezonowość.
+
+### 3. Analiza biznesowa
+Przeanalizowano:
+- wyniki sprzedażowe,
+- zachowania klientów,
+- kategorie produktowe,
+- stany magazynowe.
+
+### 4. Wizualizacja wyników
+
+
+---
+
+## 📈 Wyniki i wizualizacje
+
+
+---
+
+## 💡 Wnioski biznesowe
+
 
