@@ -45,7 +45,7 @@ Projekt obejmował:
 ## 📝 Proces analizy
 
 ### 1. Przygotowanie danych
-Zidentyfikowano i naprawiono:
+Proces przygotowania danych został przedstawiony tutaj....Zidentyfikowano i naprawiono:
 - duplikaty,
 - braki danych,
 - niespójne formaty,
